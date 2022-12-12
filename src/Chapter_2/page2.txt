@@ -1,0 +1,22 @@
+
+Java Questions
+
+1 - What is JVM, JRE, JDK?
+2 - What can you say about String?
+3 - Which data types does Java include?
+4 - What is an Array in Java?
+5 - What is Primitive Type Casting in Java?
+6 - What are the rules for variable names in Java?
+7 - Explain Static  keyword in Java?
+8 - What is method in Java? What is method overloading in Java?
+9 - What are the differences between Array and ArrayList
+10 - What is Wrapper Class used for in Java?
+11 - What is constructor in Java?
+12 - Explain some of String methods?
+13 - Explain the differences between class and object?
+14 - What are the differences between Constructor and Method?
+15 - Can you please explain Access Modifiers in Java?
+16 - Which methods do you use in ArrayList?
+17 - What is method in Java? What is method overloading in Java?
+18 - What is Encapsulation?
+19 - What is Inheritance?
