@@ -1,0 +1,28 @@
+
+
+Softskill Questions
+
+1 - What is SDLC?
+2 - What is software testing?
+3 - What is environments and what kind of environments exist?
+4 - What is Scrum and What are the Scrum roles?
+5 - What is Epic and What is User Story?
+6 - What is STLC?
+7 - What is Static Testing, What is Dynamic Testing?
+8 - What is Functional Testing, What is Non Functional Testing?
+9 - Can you please explain Testing Levels?(Testing Hierarchy)
+10- Can you please explain SMART criteria?
+11- What is verification, what is validation?
+12- What is happy path testing?
+13- Are you able to accomplish 100% testing of the application?
+14- Why do we need to test?
+15- What is a tester's main responsibility?
+16- What is Equivalence Partitioning, what is Boundary Value Analysis?
+17- What is Smoke Test, What is Regression Test?
+18- What are severity and priority?
+
+
+
+
+
+
